@@ -1,0 +1,9 @@
+.tools/
+artifacts/
+windows/bin/
+windows/runtime/
+android/local.properties
+releases/
+*.p12
+*.jks
+*.keystore
